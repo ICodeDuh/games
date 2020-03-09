@@ -1,2 +1,2 @@
 # games
-Games for all
+Games for all. MUST CODE GAMES ONLY
